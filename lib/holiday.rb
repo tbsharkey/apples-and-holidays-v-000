@@ -67,7 +67,7 @@ end
   #   Fourth Of July: Fireworks, BBQ
   # etc.
   def all_supplies_in_holidays(holiday_hash)
-
+    
   end
 
 
